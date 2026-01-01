@@ -1,17 +1,49 @@
-### Kang ngetik 👋 :)
+# Hi there, I'm Wahyu! 👋
+### Fullstack Software Engineer
 
-<!--
-**wahyusnjy/wahyusnjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Fullstack Engineer with a strong focus on building scalable backend systems and interactive user interfaces. With experience across multiple languages and frameworks, I enjoy solving complex problems and turning ideas into functional code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![github stats](https://github-readme-stats.vercel.app/api?username=wahyusnjy&show_icons=true)
+## 🚀 About Me
+- 🔭 I’m currently working on PT Solusi Intek Indonesia As Quality Assurance
+- ⚡ Tech Stack: PHP (Laravel), Go, Python, and Modern Frontend Frameworks.
+- 🌱 I’m currently learning ... (e.g., Cloud Native, AI Integration, or DevOps)
+- 💬 Ask me about: Backend Architecture, API Design, and Frontend Performance.
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+* **PHP:** Laravel (Expert), Slim
+* **Python:** FastAPI, Flask
+* **Go:** Gin, Echo, Fiber
+* **Databases:** MySQL, PostgreSQL, Redis, MongoDB
+
+### Frontend
+* **Frameworks:** Vue.js, Angular
+* **Web Basics:** HTML5, CSS3, JavaScript (ES6+)
+* **Templating:** Laravel Blade
+* **Styling:** Tailwind CSS, Bootstrap, Sass
+
+### Tools & Others
+* **Version Control:** Git & GitHub
+* **Containerization:** Docker
+* **APIs:** RESTful, GraphQL, gRPC
+
+---
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahyusnjy&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyusnjy&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wahyu-sanjaya-a747ba223)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahyusnjy@gmail.com)
+
+---
+*“Simplicity is the soul of efficiency.”*
