@@ -36,9 +36,7 @@ I am a passionate Fullstack Engineer with a strong focus on building scalable ba
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahyusnjy&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyusnjy&layout=compact&theme=radical)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wahyusnjy&theme=radical)
 ---
 
 ## 📫 Connect with me:
